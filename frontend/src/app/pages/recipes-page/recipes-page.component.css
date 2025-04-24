@@ -1,0 +1,44 @@
+.wrapper {
+    min-height: 800px;
+    padding: 100px;
+}
+
+.wrapper h2 {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.wrapper-list-item h3 {
+    font-weight: 600;
+}
+
+.wrapper-list-item img {
+    width: 120px;
+    height: 120px;
+}
+
+.wrapper-list-item p {
+    color: black;
+    font-size: 18px;
+    padding-top: 12px;
+}
+
+.wrapper-list-item-title h3 {
+    margin: 0;
+    padding-top: 16px;
+}
+
+.wrapper-list-item-title h4 {
+    color: lightslategray;
+    font-size: 12px;
+}
+
+mat-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+mat-card-content h3 {
+    margin-top: 16px;
+}

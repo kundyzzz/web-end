@@ -1,0 +1,26 @@
+.wrapper {
+    min-height: 800px;
+    padding: 100px;
+}
+
+.wrapper img {
+    width: 200px;
+    height: 200px;
+    padding: 12px;
+}
+
+.wrapper mat-card {
+    min-height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.wrapper .wrapper-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wrapper .wrapper-list {
+    padding-top: 16px;
+}

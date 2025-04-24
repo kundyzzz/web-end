@@ -1,0 +1,12 @@
+.wrapper {
+    padding: 16px;
+}
+
+.wrapper img {
+    width: 300px;
+    height: 300px;
+}
+
+.wrapper ol {
+    padding-left: 32px;
+}
